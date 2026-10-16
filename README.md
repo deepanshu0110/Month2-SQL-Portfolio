@@ -2,7 +2,7 @@
 
 **Author:** Deepanshu | [@deepanshu0110](https://github.com/deepanshu0110)
 
-15 structured Excel workbooks covering SQL from fundamentals to advanced, built as part of a 12-month data analyst training program.
+15 structured Excel workbooks covering SQL from fundamentals to advanced, built as part of a 13-month data analytics and data science program.
 
 ## Scorecard
 
@@ -19,7 +19,7 @@
 | Day 25 | Week 3 Mini-Project | 95/100 |
 | Day 26 | Window Functions | 80/80 |
 | Day 27 | LAG, LEAD & Running Totals | 78/80 |
-| Day 28 | CTEs + Window Functions Combined | 85/88 |
+| Day 28 | String + Date Functions | 85/88 |
 | Day 29 | CASE + Conditional Aggregation | 87/88 |
 | Day 30 | Week 4 Mini-Project | ✅ |
 | Day 31 | Month 2 Capstone | 119/120 |
